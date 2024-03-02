@@ -33,4 +33,3 @@ Comes with GNU TLS v3.8.3.
 Comes with OpenSSL v3.2.1.
 Comes with cURL v8.6.0.
 Comes with GNU Privacy Guard v2.4.4.
-Cambios!!
